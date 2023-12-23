@@ -1,0 +1,14 @@
+{ 
+
+"name": "Covid-19 Stats UK" ,
+"version": "1",
+"description": "Latest Covid Data of UK",
+"manifest_version": 3,
+"author": "Morgan Kar",
+"action": {
+    "default_popup" : "index.html",
+    "default_title" : "Covid Report"
+}
+
+
+}
